@@ -55,8 +55,8 @@ IT student, passionate about **full stack development** and **software engineeri
 
 ## 🌍 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_ACCOUNT](https://www.linkedin.com/in/yousra-koulache-403a50257/?skipRedirect=true))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOURPORTFOLIO.dev](https://yousra-koulache-frontend-developer.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousra-koulache-403a50257/?skipRedirect=true)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousra-koulache-frontend-developer.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousrakoulache@gmail.com)
 
 ---
