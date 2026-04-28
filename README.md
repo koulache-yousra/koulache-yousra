@@ -50,18 +50,7 @@ IT student, passionate about **full stack development** and **software engineeri
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koulache-yousra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koulache-yousra&layout=compact&langs_count=8&theme=midnight-purple" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koulache-yousra&theme=midnight-purple" alt="GitHub Streak" />
-</div>
-
----
 
 
 ## 🌍 Let's Connect!
