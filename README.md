@@ -1,6 +1,6 @@
 # 👩‍💻 Yousra | IT Master’s Graduate | Full stack Developer | Ai enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&width=435&lines=Full+Stack+Developer;Software+Engineering+;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 ## 🧠 About Me
 
