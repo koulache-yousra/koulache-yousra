@@ -6,7 +6,7 @@
 
 IT Master’s graduate, Full stack Developer & Software Engineer👩‍💻, passionate about **full stack development** and **software engineering**. I turn complex ideas into elegant, high-performance applications. My goal? To become a software engineer capable of designing robust systems from the ground up.
 
-- 🎓 **IT Student** | On the path to excellence
+- 🎓 **IT Master’s graduate** | On the path to excellence
 - 💻 **Full Stack Developer** | Frontend & Backend
 - 🏗️ **Aspiring Software Engineer** | Architecture, clean code & best practices
 - 🔥 I love solving complex problems
