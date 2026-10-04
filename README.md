@@ -1,10 +1,10 @@
-# 👩‍💻 Yousra | IT Student & Software Engineer in the Making
+# 👩‍💻 Yousra | IT Master’s Graduate | Full stack Developer | Ai enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 ## 🧠 About Me
 
-IT student, passionate about **full stack development** and **software engineering**. I turn complex ideas into elegant, high-performance applications. My goal? To become a software engineer capable of designing robust systems from the ground up.
+IT Master’s graduate, Full stack Developer & Software Engineer👩‍💻, passionate about **full stack development** and **software engineering**. I turn complex ideas into elegant, high-performance applications. My goal? To become a software engineer capable of designing robust systems from the ground up.
 
 - 🎓 **IT Student** | On the path to excellence
 - 💻 **Full Stack Developer** | Frontend & Backend
